@@ -3,7 +3,7 @@
 I recently started studying Computer Science in October 2024.
 
 - 🔭 I’m currently working on Harvard University's "CS50's Introduction to Computer Science" (atm Problem Set 9) to gain practical experience.
-- 📫 How to reach me: Please feel free to contact me on [LinkedIn] (www.linkedin.com/in/franziska-sitzmann-819595320) <a href="www.linkedin.com/in/franziska-sitzmann-819595320">LinkedIn</a>
+- 📫 How to reach me: Please feel free to contact me on [LinkedIn](www.linkedin.com/in/franziska-sitzmann-819595320)
   
 
 
